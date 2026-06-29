@@ -108,7 +108,7 @@ Analyzes sales performance across multiple business dimensions.
 - Monthly Sales Trend
 - Top Products
 
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard](Sales__Dashboard.png)
 
 
 ## 👥 Customer Dashboard
