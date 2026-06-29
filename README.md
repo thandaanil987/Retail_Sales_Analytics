@@ -3,13 +3,9 @@
 
 An end-to-end Data Analytics project demonstrating the complete analytics lifecycle, from raw data preparation to executive-level business dashboards. This project leverages **Excel, MySQL, Python, and Power BI** to analyze retail sales data and generate actionable business insights.
 
----
-
 # 📌 Project Overview
 
 This project focuses on transforming raw retail transaction data into meaningful business intelligence. The solution includes data cleaning, SQL analysis, exploratory data analysis (EDA), data modeling, DAX calculations, and interactive dashboards to support strategic decision-making.
-
----
 
 # 🎯 Business Objectives
 
@@ -18,8 +14,6 @@ This project focuses on transforming raw retail transaction data into meaningful
 - Analyze customer purchasing behavior.
 - Evaluate shipping efficiency and delivery performance.
 - Support executive decision-making through interactive dashboards.
-
----
 
 # 🛠 Tech Stack
 
@@ -36,7 +30,6 @@ This project focuses on transforming raw retail transaction data into meaningful
 | DAX | Business Metrics & KPIs |
 | Git & GitHub | Version Control |
 
----
 
 # 📂 Project Workflow
 
@@ -63,7 +56,6 @@ Power BI
 Business Insights & Recommendations
 ```
 
----
 
 # 📊 Dataset Summary
 
@@ -76,7 +68,6 @@ Business Insights & Recommendations
 | Categories | 3 |
 | Regions | 4 |
 
----
 
 # ⭐ Dashboard Overview
 
@@ -84,9 +75,8 @@ Business Insights & Recommendations
 
 Provides an overview of the project, business objectives, technology stack, and navigation.
 
-![Home](Dashboard%20Images/Home.png)
+![Home](Home.png)
 
----
 
 ## 📊 Executive Dashboard
 
@@ -102,9 +92,8 @@ Provides executive-level KPIs and overall business performance.
 - Regional Sales Analysis
 - Customer Segment Analysis
 
-![Executive Dashboard](Dashboard%20Images/Executive_Dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
----
 
 ## 📈 Sales Dashboard
 
@@ -121,7 +110,6 @@ Analyzes sales performance across multiple business dimensions.
 
 ![Sales Dashboard](Dashboard%20Images/Sales_Dashboard.png)
 
----
 
 ## 👥 Customer Dashboard
 
@@ -135,9 +123,8 @@ Analyzes customer behavior and purchasing patterns.
 - Geographic Customer Distribution
 - Regional Analysis
 
-![Customer Dashboard](Dashboard%20Images/Customer_Dashboard.png)
+![Customer Dashboard](Customer_Dashboard.png)
 
----
 
 ## 📦 Product Dashboard
 
@@ -152,9 +139,7 @@ Evaluates product profitability and performance.
 - Discount Analysis
 - Product Performance
 
-![Product Dashboard](Dashboard%20Images/Product_Dashboard.png)
-
----
+![Product Dashboard](Product_Dashboard.png)
 
 ## 🚚 Shipping Dashboard
 
@@ -168,9 +153,7 @@ Evaluates logistics and delivery efficiency.
 - Delivery Trends
 - Region-wise Shipping Analysis
 
-![Shipping Dashboard](Dashboard%20Images/Shipping_Dashboard.png)
-
----
+![Shipping Dashboard](Shipping_Dashboard.png)
 
 ## 💡 Business Insights Dashboard
 
@@ -184,9 +167,7 @@ Summarizes business findings and strategic recommendations.
 - Action Priority Matrix
 - Expected Business Impact
 
-![Business Insights Dashboard](Dashboard%20Images/Business_Insights_Dashboard.png)
-
----
+![Business Insights Dashboard](Business_Insights_Dashboard.png)
 
 # 📈 Key Business Insights
 
@@ -197,7 +178,6 @@ Summarizes business findings and strategic recommendations.
 - Higher discount levels were associated with lower profits.
 - Standard Class was the most frequently used shipping mode.
 
----
 
 # 💼 Business Recommendations
 
@@ -207,7 +187,6 @@ Summarizes business findings and strategic recommendations.
 - Improve logistics performance in slower regions.
 - Focus customer retention initiatives on high-value customers.
 
----
 
 # 📊 Skills Demonstrated
 
@@ -247,8 +226,6 @@ Summarizes business findings and strategic recommendations.
 - Drill-through
 - Business Storytelling
 
----
-
 # 📁 Repository Structure
 
 ```
@@ -263,8 +240,6 @@ Retail_Sales_Analytics
 ├── README.md
 ```
 
----
-
 # 🚀 Future Enhancements
 
 - Business Requirements Document (BRD)
@@ -273,7 +248,6 @@ Retail_Sales_Analytics
 - Interactive Dashboard Publishing
 - Portfolio Website Integration
 
----
 
 # 👨‍💻 Developed By
 
@@ -285,6 +259,5 @@ GitHub: https://github.com/thandaanil987
 
 LinkedIn: https://github.com/thandaanil987
 
----
 
 ## ⭐ If you found this project useful, consider giving this repository a Star.
